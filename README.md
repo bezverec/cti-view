@@ -22,6 +22,13 @@ This is a simple viewer for the [CTI image file format](https://github.com/bezve
    # binary will be in: .\cti\target\release\cti-view.exe
    ```
 ---
+## Screenshot
+
+<p align="center">
+<img width="802" height="632" alt="cti-view" src="https://github.com/user-attachments/assets/ab8f2b1a-6b0a-4a6d-b839-65a1b0f7c50f" />
+</p>
+
+---
 ## AI generated code disclosure
 
 The code is AI generated using ChatGPT model 5.
