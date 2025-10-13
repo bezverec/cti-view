@@ -6,7 +6,7 @@ edition = "2024"
 [dependencies]
 anyhow = "1"
 eframe = "0.32"
-egui = "0.32"
+egui = "0.33"
 rfd = "0.15"
 zstd = "0.13"
 lz4_flex = "0.11"
